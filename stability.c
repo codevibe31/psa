@@ -46,5 +46,5 @@ plot(t,f);
 grid on
 xlabel('time')
 ylabel('freq in hz ')
-title('Vriation of generator freq')
+title('Variation of generator freq')
 
