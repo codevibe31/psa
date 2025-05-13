@@ -40,7 +40,7 @@ plot(t,d);
 grid on
 xlabel('time')
 ylabel('delta degree ')
-title('Vriation of rotor angle')
+title('Variation of rotor angle')
 subplot(2,1,2)
 plot(t,f);
 grid on
